@@ -1,13 +1,9 @@
-<h1 align="center">#CloudSeekho</h1>
-<h3>Google Cloud Self-Study Program</h3>
+<h1>Google Cloud Self-Study Program</h1>
 
-<p align="center">
+<p align="left">
   Welcome to #CloudSeekho, your gateway to mastering Google Cloud technologies! ☁️
 </p>
 
-<p align="center">
-  <img src="https://cloudseekho.com/logo" alt="CloudSeekho Logo">
-</p>
 
 ## About #CloudSeekho
 
