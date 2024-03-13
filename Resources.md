@@ -12,7 +12,7 @@
 ## Google Cloud Skills Boost Offer
 
 - **Access to Labs:** Enjoy one month of free access to Google Cloud Skills Boost, including hands-on labs.
-- **Register:** Register [here](http://goo.gle/cloudseekho-s5) to avail of this offer.
+- **Register:** Register [here](http://goo.gle/cloudseekho-s5) to avail of this opportunity.
 - **Last Date of Registration:** January 21, 2024, at 5:00 PM GMT+5.
 
 ## Monthly Subscription Details
