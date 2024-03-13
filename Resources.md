@@ -40,7 +40,7 @@ Additionally, access 12 courses through these 5 links.
 
 Check your Cloud Skill Boost Profile [here](https://www.cloudskillsboost.google/profile).
 
-## Last Date of Lab Completion:##
+## Last Date of Lab Completion:
 - **January 31, 2024, at 5:00 PM GMT+5.**
 
 
