@@ -35,12 +35,12 @@ Completion of 4 badges takes approximately 2 hours.
 
 Additionally, access 12 courses through these 5 links.
 
-- **Last Date of Lab Completion:** January 31, 2024, at 5:00 PM GMT+5.
 
 ## Check Your Cloud Skill Boost Profile
 
 Check your Cloud Skill Boost Profile [here](https://www.cloudskillsboost.google/profile).
 
-<p align="left" >
-  Powered by Google Developer Student Club, COMSATS Lahore
-</p>
+## Last Date of Lab Completion:##
+- **January 31, 2024, at 5:00 PM GMT+5.**
+
+
